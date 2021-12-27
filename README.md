@@ -1,0 +1,2 @@
+# coreTask
+celery task
